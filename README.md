@@ -1,4 +1,4 @@
-#Python practice
+#Daily Python Learning
 
 **student: vaishnavi gahlod**
 
@@ -14,3 +14,14 @@ How to check data type
 How to take input from user
 
 ##Day2
+
+ day2 file details:
+ -Multiple Variable
+ -Type Conversion
+
+ ##Technology Used:
+
+ -Python
+ -Git
+ -GitHub
+ 
