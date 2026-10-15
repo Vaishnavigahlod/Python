@@ -19,6 +19,45 @@ How to take input from user
  -Multiple Variable
  -Type Conversion
 
+ #Day3
+
+ day3 file details:
+ 
+ #conditional statement:
+-if
+-if else
+-if elif else
+-nested if
+
+
+##Day4
+
+using conditional statement:
+-customer segment(data analyst style)
+-leap year checker
+-odd or even number
+-positive, negative or zero
+-largest of two numbers
+-pass or fail
+-day of week
+-simple calculator(basic)
+-vowel or consonent
+-temperature check
+-discount on shopping
+-driving eligibility
+-number divisible by 3 and 5
+-simple intrest rate
+-character type checker
+
+
+#Day5
+
+using conditional statement:
+-customer segment classification (retail / E-commerce)
+-sales performance rating (sales team analysis)
+-product discount category(pricing analysis)
+
+
  ##Technology Used:
 
  -Python
