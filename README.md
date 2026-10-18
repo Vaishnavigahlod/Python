@@ -57,7 +57,13 @@ using conditional statement:
 -sales performance rating (sales team analysis)
 -product discount category(pricing analysis)
 
+#Day6
 
+ Match Statement
+ -match statement in python is like a switch case.
+ -use it when you have one variable and many possible values for it, it make your code short and easy to read.
+
+ 
  ##Technology Used:
 
  -Python
