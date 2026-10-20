@@ -63,6 +63,21 @@ using conditional statement:
  -match statement in python is like a switch case.
  -use it when you have one variable and many possible values for it, it make your code short and easy to read.
 
+ #Day7
+
+ LOOPS
+
+-for loop
+-for loop with conditional statement.
+
+#Day8
+
+-using for loop:
+-accept the number is prime number or not a primes number.
+-program to print no. betwwen 1 and 20
+
+
+
  
  ##Technology Used:
 
