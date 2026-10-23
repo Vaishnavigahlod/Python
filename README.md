@@ -77,6 +77,22 @@ using conditional statement:
 -program to print no. betwwen 1 and 20
 
 
+#Day9
+
+-program to accept password calc len , how many digits, how many special character, if valid password.
+-program to accept accept no. of product/item.
+
+#Day10
+
+WHILE LOOP--
+
+
+#Day11
+
+FUNCTION--
+-We learn function
+
+
 
  
  ##Technology Used:
