@@ -89,10 +89,23 @@ WHILE LOOP--
 
 #Day11
 
-FUNCTION--
+FUNCTION:
 -We learn function
 
+#Day12
 
+TYPES OF FUNCTION:
+
+-Positional Arguments
+-Keyword Arguments
+-Default Arguments
+-Variable-Length Arguments
+
+
+#Day13
+
+TUPLE
+SLICING
 
  
  ##Technology Used:
