@@ -107,6 +107,22 @@ TYPES OF FUNCTION:
 TUPLE
 SLICING
 
+
+##Day14
+
+-how to pass tuple to a function.
+-variable length argument (*args).
+-function returning a tuple.
+-count function in tuple.
+
+
+##Day15
+
+LIST:
+
+-similarly accept rno, name, email, and mobile from user, and store it in a list and the display the students details.
+-accept empno,name,salary and designation of employee and store it in a
+
  
  ##Technology Used:
 
