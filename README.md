@@ -184,6 +184,39 @@ Topic :Dictionaries
 -7)CLEAR() 
 -8)COPY :create a duplicate copy of a dictionary
 
+#Day20
+
+*OOPS*
+
+-TYPE OF ATTRIBUTE
+1)class attribute
+2)instance attribute
+
+
+#Day21
+
+-1)INHERITANCE
+
+#Day22
+
+-Customer has a account(Has a relationship)
+-2)HEIRARCHICAL INHERITANCE :parent class has one or more child class
+-3)MULTILEVEL INHERITANCE
+-4)MULTIPLE INHERITANCE
+PRACTICE QUESTION OF INHERITANCE
+
+#Day23
+
+-Method Overriding
+
+#Day24
+
+-ABSTACT CLASS AND METHOD
+
+#Day25
+
+-POLYMORPHISM
+
  
  ##Technology Used:
 
